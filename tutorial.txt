@@ -1,0 +1,3 @@
+nodejs
+vô cmd -> cd (ở node) + folder chứa file
+node + file
